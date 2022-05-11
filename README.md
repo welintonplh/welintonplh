@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on with biology teachings.
 - 🤔 I’m looking for help with programation.
 - 💬 Ask me about biology and guitar.
-- 📫 How to reach me: welinton_mf@hotmail.com
+- 📫 How to reach me: welinton.palhiarini@escola.pr.gov.br
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I have a rock n' roll band called Shapiro Wilk.
 
