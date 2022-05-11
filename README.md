@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**welintonplh/welintonplh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é Welinton**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on teaching at school.
+- 🌱 I’m currently learning programation.
+- 👯 I’m looking to collaborate on with biology teachings.
+- 🤔 I’m looking for help with programation.
+- 💬 Ask me about biology and guitar.
+- 📫 How to reach me: welinton_mf@hotmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I have a rock n' roll band called Shapiro Wilk.
+
+
